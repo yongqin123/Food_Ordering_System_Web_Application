@@ -1,4 +1,4 @@
-# duck_rice
+# Food Ordering System Web Application 
 
 -- REQUIREMENTS --
 1. Support and manage different types of users and user profiles.
